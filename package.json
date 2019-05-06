@@ -7,7 +7,7 @@
         "ui",
         "theme"
     ],
-    "repository": "https://github.com/michaelsedits/blend-ui",
+    "repository": "https://github.com/michaelsedits/blend-theme",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
